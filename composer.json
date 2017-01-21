@@ -1,22 +1,18 @@
 {
-    "name": "cnvs/paper",
-    "description": "Default theme for Canvas",
-    "keywords": ["canvas", "theme", "default"],
+    "name": "sebbaum/paper",
+    "description": "Extended default theme for Canvas",
+    "keywords": ["canvas", "theme", "default", "extended"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Patrick Reid",
-            "email": "reliq@reliqarts.com"
-        },
-        {
-            "name": "Todd Austin",
-            "email": "austin.todd.j@gmail.com"
+            "name": "Sebastian Baum",
+            "email": "seb.baum@googlemail.com"
         }
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "Paper+",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
