@@ -12,7 +12,7 @@
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper+",
+            "title": "Paper2",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
